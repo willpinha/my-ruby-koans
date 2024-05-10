@@ -4,6 +4,14 @@
 
 Learn more [about Koans](https://www.rubykoans.com)
 
+To run all tests, execute the following command on terminal:
+
+```
+cd koans && ruby path_to_enlightenment.rb
+```
+
+### Koans
+
 - [about_java_interop](https://github.com/willpinha/my-ruby-koans/blob/master/koans/about_java_interop.rb)
 - [about_classes](https://github.com/willpinha/my-ruby-koans/blob/master/koans/about_classes.rb)
 - [about_to_str](https://github.com/willpinha/my-ruby-koans/blob/master/koans/about_to_str.rb)
