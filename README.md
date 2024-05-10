@@ -7,7 +7,7 @@ Learn more [about Koans](https://www.rubykoans.com)
 To run all tests, execute the following command on terminal:
 
 ```
-cd koans && ruby path_to_enlightenment.rb
+(cd koans && ruby path_to_enlightenment.rb)
 ```
 
 ### Koans
