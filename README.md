@@ -1,2 +1,3 @@
-# my-ruby-koans
-💎 My implementation of the Ruby Koans to learn Ruby
+# My Ruby Koans
+
+> 💎 My implementation of the Ruby Koans to learn Ruby
